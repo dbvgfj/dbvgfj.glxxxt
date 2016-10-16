@@ -1,0 +1,5635 @@
+﻿$axure.loadCurrentPage({
+  "url":"设备巡检录入.html",
+  "generationDate":new Date(1476581088545.03),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"e625437003d541d3bc9cff8ae3e88d51",
+    "type":"Axure:Page",
+    "name":"设备巡检录入",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"9e0819a1d97e41e299dc84106c463d70",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h1",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":307,
+              "y":33},
+            "size":{
+              "width":513,
+              "height":37}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"50069342c2d7419c8746b38ccf7599b0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":307,
+                  "y":33},
+                "size":{
+                  "width":513,
+                  "height":37}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"0c513ab25fdd4b998fe2dd34e4244488",
+          "label":"",
+          "type":"table",
+          "styleType":"table",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":232,
+              "y":108},
+            "size":{
+              "width":548,
+              "height":182}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cbd76fe71886483e88619d827f06c57c",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":36},
+                "size":{
+                  "width":294,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"01d4402c675f46fb9311b4d091f117bf",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":36},
+                    "size":{
+                      "width":294,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u7.png"}},
+{
+              "id":"766e6b1b12c94fbba9ef694de3d5d3ac",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":66},
+                "size":{
+                  "width":294,
+                  "height":26}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"04356bb3ebd5430696206de6ddf9a631",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":66},
+                    "size":{
+                      "width":294,
+                      "height":26}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u11.png"}},
+{
+              "id":"5456d78623aa45e0a4465def41376da0",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "size":{
+                  "width":294,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"2f4d8c02e752435280feae7e8850878e",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "size":{
+                      "width":294,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u3.png"}},
+{
+              "id":"6a94a6b31f9f46dba4f39017af5e0d84",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":294,
+                  "y":0},
+                "size":{
+                  "width":254,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"41e321ec01b4428fb97942f8e9519db2",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":294,
+                      "y":0},
+                    "size":{
+                      "width":254,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u5.png"}},
+{
+              "id":"bf34f1c1788b4d5e9b4f564f1a42ff0b",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":294,
+                  "y":36},
+                "size":{
+                  "width":254,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"eb5d5c1a9bd645588b9c9d93f23eecbb",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":294,
+                      "y":36},
+                    "size":{
+                      "width":254,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u9.png"}},
+{
+              "id":"709603cccc1d4327968e173f57ca36c4",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":294,
+                  "y":66},
+                "size":{
+                  "width":254,
+                  "height":26}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"2b42e195e8784e3cad3730f226a22f81",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":294,
+                      "y":66},
+                    "size":{
+                      "width":254,
+                      "height":26}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u13.png"}},
+{
+              "id":"30ee438f26954eca9069c62946c87c72",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":92},
+                "size":{
+                  "width":294,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"61996660145b4238be93e9a9264d31c1",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":92},
+                    "size":{
+                      "width":294,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u7.png"}},
+{
+              "id":"850ede0e17c645a2a141d21bcb14dfde",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":294,
+                  "y":92},
+                "size":{
+                  "width":254,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"8252a3501a484bd8992f8fdfa392c1a1",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":294,
+                      "y":92},
+                    "size":{
+                      "width":254,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u9.png"}},
+{
+              "id":"3880954e78da4ff5b2fddd6ad2efbd2c",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":122},
+                "size":{
+                  "width":294,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"4ddc42f6de8648a1801fd440f1eb719a",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":122},
+                    "size":{
+                      "width":294,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u7.png"}},
+{
+              "id":"ef06a8ac91e844ad8a264c6ef66248a1",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":294,
+                  "y":122},
+                "size":{
+                  "width":254,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"5154c9a2b8fd49afa8b59879d8e7dec3",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":294,
+                      "y":122},
+                    "size":{
+                      "width":254,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u9.png"}},
+{
+              "id":"14a8b254705d4d4fb560678c7712dde2",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":152},
+                "size":{
+                  "width":294,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"df0d97c5e7ae4bcb92c6af75c6b5ef20",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":152},
+                    "size":{
+                      "width":294,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u23.png"}},
+{
+              "id":"b6cfcada0fb248f9954687ef0c3960dc",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":294,
+                  "y":152},
+                "size":{
+                  "width":254,
+                  "height":30}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"cac758fc195b490d8c3d0032bd06278d",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":294,
+                      "y":152},
+                    "size":{
+                      "width":254,
+                      "height":30}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u25.png"}}]},
+{
+          "id":"4179d7bdcd2740eb99b1a7030662fe9b",
+          "label":"",
+          "type":"table",
+          "styleType":"table",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":247.5,
+              "y":330},
+            "size":{
+              "width":629,
+              "height":564}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5815e7a2e8b0443ebdf4e3905b56f265",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":38,
+                  "y":0},
+                "size":{
+                  "width":334,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"2b221aa61a014322bb3c31581fbc3896",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":38,
+                      "y":0},
+                    "size":{
+                      "width":334,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u30.png"}},
+{
+              "id":"79489c91e2da4c35aebac19f015e8a12",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":38,
+                  "y":36},
+                "size":{
+                  "width":334,
+                  "height":41}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"7ea4b3b6ac2e40709e867463cc7af88b",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":38,
+                      "y":36},
+                    "size":{
+                      "width":334,
+                      "height":41}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u38.png"}},
+{
+              "id":"e5aab76b739e49da8dfbfed10f25ad1c",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":372,
+                  "y":0},
+                "size":{
+                  "width":70,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"d3253a2954524676ab76e362cbbca7a0",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":372,
+                      "y":0},
+                    "size":{
+                      "width":70,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u32.png"}},
+{
+              "id":"1c67f6386cec4becbdf2d4cf781bde3d",
+              "label":"q1",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":372,
+                  "y":36},
+                "size":{
+                  "width":70,
+                  "height":41}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"3c41bc4c063f45bc9c0b317c5045cccb",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":372,
+                      "y":36},
+                    "size":{
+                      "width":70,
+                      "height":41}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/q1_u40.png"}},
+{
+              "id":"d72dd5b34ec941bc83f5df09a7a24824",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":442,
+                  "y":0},
+                "size":{
+                  "width":187,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"e38009c82d87498fb7085d994b86c744",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":442,
+                      "y":0},
+                    "size":{
+                      "width":187,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u34.png"}},
+{
+              "id":"277dc851185843b6aa9f2e12d4640f9e",
+              "label":"w1",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":442,
+                  "y":36},
+                "size":{
+                  "width":187,
+                  "height":41}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"4349a33aba4c45b3a943b7fbb23ac50f",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":442,
+                      "y":36},
+                    "size":{
+                      "width":187,
+                      "height":41}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/w1_u42.png"}},
+{
+              "id":"6420af82510e4642bde900a01dfe08e4",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "size":{
+                  "width":38,
+                  "height":36}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"d5203d9ffbea4aa5a62003377bed9c1e",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "size":{
+                      "width":38,
+                      "height":36}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u28.png"}},
+{
+              "id":"f3fcb58b58314aa7bcc2ec84f40bc2da",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":36},
+                "size":{
+                  "width":38,
+                  "height":41}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"b7ee2552d1eb4d839b733523d1d48749",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":36},
+                    "size":{
+                      "width":38,
+                      "height":41}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u36.png"}},
+{
+              "id":"50d86930db434fc6af53ed5d3cfcb4f2",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":77},
+                "size":{
+                  "width":38,
+                  "height":45}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"c03102a29a884f789899d4c8aa1e7e96",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":77},
+                    "size":{
+                      "width":38,
+                      "height":45}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u44.png"}},
+{
+              "id":"0f796d563fab4248bdf32b5e9d14a5ba",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":38,
+                  "y":77},
+                "size":{
+                  "width":334,
+                  "height":45}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"c7765bea316049f5a2a4c8da8153bc11",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":38,
+                      "y":77},
+                    "size":{
+                      "width":334,
+                      "height":45}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u46.png"}},
+{
+              "id":"88992209c1e74329bae4202ebecf4ea6",
+              "label":"q2",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":372,
+                  "y":77},
+                "size":{
+                  "width":70,
+                  "height":45}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"59d53260652148e8bcdcbd27616130aa",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":372,
+                      "y":77},
+                    "size":{
+                      "width":70,
+                      "height":45}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/q2_u48.png"}},
+{
+              "id":"cb559edf5aff47cfb34ff990c7a2230d",
+              "label":"w2",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":442,
+                  "y":77},
+                "size":{
+                  "width":187,
+                  "height":45}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"e7b7842923c8493d872517f05ee759bf",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":442,
+                      "y":77},
+                    "size":{
+                      "width":187,
+                      "height":45}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/w2_u50.png"}},
+{
+              "id":"9626d21112eb42d692f9ee1e014d59c4",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":122},
+                "size":{
+                  "width":38,
+                  "height":39}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"c57de95c35834d0bb4cea9856bae518d",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":122},
+                    "size":{
+                      "width":38,
+                      "height":39}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u52.png"}},
+{
+              "id":"69b1d8069ad343d8b2adf7226daf418f",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":38,
+                  "y":122},
+                "size":{
+                  "width":334,
+                  "height":39}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"c596bed617bc437ea5d83126dafbbd8c",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":38,
+                      "y":122},
+                    "size":{
+                      "width":334,
+                      "height":39}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u54.png"}},
+{
+              "id":"426182a5750241d1b6f532d497a9ead0",
+              "label":"q3",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":372,
+                  "y":122},
+                "size":{
+                  "width":70,
+                  "height":39}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"a89c30a88bc34cd1ac9bf75833b7caca",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":372,
+                      "y":122},
+                    "size":{
+                      "width":70,
+                      "height":39}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/q3_u56.png"}},
+{
+              "id":"22da3a68940446dfb71184dd9f0980b8",
+              "label":"w3",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":442,
+                  "y":122},
+                "size":{
+                  "width":187,
+                  "height":39}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"010e78c8c4af48c0b28585453e2d5e28",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":442,
+                      "y":122},
+                    "size":{
+                      "width":187,
+                      "height":39}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/w3_u58.png"}},
+{
+              "id":"9df1d20448da4740ac9dd9783f4332a2",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":161},
+                "size":{
+                  "width":38,
+                  "height":40}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"4ed87e714b1f45a7a55566393bbe0bba",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":161},
+                    "size":{
+                      "width":38,
+                      "height":40}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u60.png"}},
+{
+              "id":"88a2068450c145f9965d966e7725f639",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":38,
+                  "y":161},
+                "size":{
+                  "width":334,
+                  "height":40}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"325de332233f4093a150ade30f80c1be",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":38,
+                      "y":161},
+                    "size":{
+                      "width":334,
+                      "height":40}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u62.png"}},
+{
+              "id":"19794219620448c5945d97d0bfd052dd",
+              "label":"q4",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":372,
+                  "y":161},
+                "size":{
+                  "width":70,
+                  "height":40}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"71912d52e2f04f58b21a4a622c00e1f6",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":372,
+                      "y":161},
+                    "size":{
+                      "width":70,
+                      "height":40}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/q4_u64.png"}},
+{
+              "id":"9a893ffa512b4fb3a110d22fbd57154f",
+              "label":"w4",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":442,
+                  "y":161},
+                "size":{
+                  "width":187,
+                  "height":40}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"027642e40b09461f8ffca5544338ee02",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":442,
+                      "y":161},
+                    "size":{
+                      "width":187,
+                      "height":40}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/w4_u66.png"}},
+{
+              "id":"7685a3546e2f49c8b55198d484795c40",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":201},
+                "size":{
+                  "width":38,
+                  "height":41}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"33eef1c233724bf8a96dba4da36df2a0",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":201},
+                    "size":{
+                      "width":38,
+                      "height":41}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u36.png"}},
+{
+              "id":"69c07fc85f754e9293b86e9c5b43d84a",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":38,
+                  "y":201},
+                "size":{
+                  "width":334,
+                  "height":41}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"934030b7d832482ab64853a6f4d4e7fd",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":38,
+                      "y":201},
+                    "size":{
+                      "width":334,
+                      "height":41}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u38.png"}},
+{
+              "id":"b3403cfc1f964a73ad342b551a5c05b6",
+              "label":"q5",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":372,
+                  "y":201},
+                "size":{
+                  "width":70,
+                  "height":41}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"9f35379e3ad14f22badbe738b708a2c7",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":372,
+                      "y":201},
+                    "size":{
+                      "width":70,
+                      "height":41}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/q1_u40.png"}},
+{
+              "id":"f888f373d8b14941a8a7815167991741",
+              "label":"w5",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":442,
+                  "y":201},
+                "size":{
+                  "width":187,
+                  "height":41}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"e62dbeb420d3461380af30b399be9d44",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":442,
+                      "y":201},
+                    "size":{
+                      "width":187,
+                      "height":41}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/w1_u42.png"}},
+{
+              "id":"436d42349d7747e3b0a3835a15924cd6",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":242},
+                "size":{
+                  "width":38,
+                  "height":41}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"7f992aae4c6d4d1a8ebd6a21527eb76e",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":242},
+                    "size":{
+                      "width":38,
+                      "height":41}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u36.png"}},
+{
+              "id":"16baf0a31140448ea0cdfe27a3fcb8a6",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":38,
+                  "y":242},
+                "size":{
+                  "width":334,
+                  "height":41}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"79d5cb96515f4fdcb6a4ffc70f19df2d",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":38,
+                      "y":242},
+                    "size":{
+                      "width":334,
+                      "height":41}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u38.png"}},
+{
+              "id":"64a16663fdd245128bb37e29ca889754",
+              "label":"q6",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":372,
+                  "y":242},
+                "size":{
+                  "width":70,
+                  "height":41}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"344cd62277244cc9845ac8c5f10302e6",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":372,
+                      "y":242},
+                    "size":{
+                      "width":70,
+                      "height":41}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/q1_u40.png"}},
+{
+              "id":"0927866b74a145029ff4f95f140d7218",
+              "label":"w6",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":442,
+                  "y":242},
+                "size":{
+                  "width":187,
+                  "height":41}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"d7df5668158b46c58620b69d17b8d476",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":442,
+                      "y":242},
+                    "size":{
+                      "width":187,
+                      "height":41}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/w1_u42.png"}},
+{
+              "id":"671a1158343c44329f6d8d2edaaa0341",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":283},
+                "size":{
+                  "width":38,
+                  "height":40}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"07a44f75a0a34b18a0ae0c9db63bebc0",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":283},
+                    "size":{
+                      "width":38,
+                      "height":40}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u60.png"}},
+{
+              "id":"d2b59981cbd944a9a2ced763e1815bf5",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":38,
+                  "y":283},
+                "size":{
+                  "width":334,
+                  "height":40}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"0350a5f999cd46919cb67afa85829ba0",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":38,
+                      "y":283},
+                    "size":{
+                      "width":334,
+                      "height":40}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u62.png"}},
+{
+              "id":"2258d6bf59c7429684a75242e34211ff",
+              "label":"q7",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":372,
+                  "y":283},
+                "size":{
+                  "width":70,
+                  "height":40}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"4283637668864089808df2168eb4d070",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":372,
+                      "y":283},
+                    "size":{
+                      "width":70,
+                      "height":40}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/q4_u64.png"}},
+{
+              "id":"2dce1c36cf034d44a532a80c0913746f",
+              "label":"w7",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":442,
+                  "y":283},
+                "size":{
+                  "width":187,
+                  "height":40}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"a1c0ea4243e34f81b9fa6752387a3a6c",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":442,
+                      "y":283},
+                    "size":{
+                      "width":187,
+                      "height":40}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/w4_u66.png"}},
+{
+              "id":"2356c0e42cf6466aab08d2c488e9edd9",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":323},
+                "size":{
+                  "width":38,
+                  "height":43}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"0e850dd6ee324a7bb26a58d2a38db7c0",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":323},
+                    "size":{
+                      "width":38,
+                      "height":43}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u92.png"}},
+{
+              "id":"b5fdfc58727d45d4b91cdddcab4c17dc",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":38,
+                  "y":323},
+                "size":{
+                  "width":334,
+                  "height":43}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"39c0993a71734ead88c516860bd3f900",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":38,
+                      "y":323},
+                    "size":{
+                      "width":334,
+                      "height":43}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u94.png"}},
+{
+              "id":"6f7648e054c045a0be6d8f48ee809516",
+              "label":"q8",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":372,
+                  "y":323},
+                "size":{
+                  "width":70,
+                  "height":43}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"e7eeb582bb6a4ca6b724d7b81863a069",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":372,
+                      "y":323},
+                    "size":{
+                      "width":70,
+                      "height":43}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/q8_u96.png"}},
+{
+              "id":"b472c071935f421b90a141cb7bd93b83",
+              "label":"w8",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":442,
+                  "y":323},
+                "size":{
+                  "width":187,
+                  "height":43}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"d5114659dde941c593124a543e87f2da",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":442,
+                      "y":323},
+                    "size":{
+                      "width":187,
+                      "height":43}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/w8_u98.png"}},
+{
+              "id":"06b67710ce5540868d18a5d926aa30f0",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":366},
+                "size":{
+                  "width":38,
+                  "height":39}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"da9d5531dd924311a568b41448b819ae",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":366},
+                    "size":{
+                      "width":38,
+                      "height":39}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u52.png"}},
+{
+              "id":"94324aaf46474d7eb9ccf64e3f2b70a7",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":38,
+                  "y":366},
+                "size":{
+                  "width":334,
+                  "height":39}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"ae8cd85e8f484c079b081c1dd1234f10",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":38,
+                      "y":366},
+                    "size":{
+                      "width":334,
+                      "height":39}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u54.png"}},
+{
+              "id":"bab6ac9d784444998b25c81d79672c6c",
+              "label":"q9",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":372,
+                  "y":366},
+                "size":{
+                  "width":70,
+                  "height":39}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"96ffd57d0527413aaf13bf69368e7139",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":372,
+                      "y":366},
+                    "size":{
+                      "width":70,
+                      "height":39}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/q3_u56.png"}},
+{
+              "id":"ff2ca7e3cfee4bb6a1b029609de43287",
+              "label":"w9",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":442,
+                  "y":366},
+                "size":{
+                  "width":187,
+                  "height":39}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"be1bbd8cc52f4481b44b6360620351fb",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":442,
+                      "y":366},
+                    "size":{
+                      "width":187,
+                      "height":39}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/w3_u58.png"}},
+{
+              "id":"53e192b3bde54e7ab250d8b0193df8f5",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":405},
+                "size":{
+                  "width":38,
+                  "height":43}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"42caa69bfdc744fdb2d3b116579ae90d",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":405},
+                    "size":{
+                      "width":38,
+                      "height":43}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u92.png"}},
+{
+              "id":"64722174f662400b9dd12c34c5f4d0f8",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":38,
+                  "y":405},
+                "size":{
+                  "width":334,
+                  "height":43}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"afcc770bdf07408885451b09b092119b",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":38,
+                      "y":405},
+                    "size":{
+                      "width":334,
+                      "height":43}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u94.png"}},
+{
+              "id":"2979518600c2482cbe319a84bfa3f06b",
+              "label":"q10",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":372,
+                  "y":405},
+                "size":{
+                  "width":70,
+                  "height":43}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"7785ad4e8c33428aa89307d41070843a",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":372,
+                      "y":405},
+                    "size":{
+                      "width":70,
+                      "height":43}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/q8_u96.png"}},
+{
+              "id":"ac1ce7126c5c49e08763e62b54ca93cc",
+              "label":"w10",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":442,
+                  "y":405},
+                "size":{
+                  "width":187,
+                  "height":43}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"b475d8f993d74ec3bfbccd7ec259bbd9",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":442,
+                      "y":405},
+                    "size":{
+                      "width":187,
+                      "height":43}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/w8_u98.png"}},
+{
+              "id":"a3269b2cbf9e4ae2987f11f79aa86ed6",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":0,
+                  "y":448},
+                "size":{
+                  "width":38,
+                  "height":116}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"b887c38a2e33490f8a8624f5baa0c08e",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":0,
+                      "y":448},
+                    "size":{
+                      "width":38,
+                      "height":116}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u116.png"}},
+{
+              "id":"a1295c00bf004b6d9bfb12531f19ce60",
+              "label":"q11",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":38,
+                  "y":448},
+                "size":{
+                  "width":334,
+                  "height":116}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"e09a23ac48d34228a18235a8c54c17f6",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":38,
+                      "y":448},
+                    "size":{
+                      "width":334,
+                      "height":116}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/q11_u118.png"}},
+{
+              "id":"431a0fd7c40e4c9b8311b9f62f61d5bc",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":372,
+                  "y":448},
+                "size":{
+                  "width":70,
+                  "height":116}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"85c106aff16d4b94825e4cd5c4fe00d0",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":372,
+                      "y":448},
+                    "size":{
+                      "width":70,
+                      "height":116}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u120.png"}},
+{
+              "id":"7105b0f230a345c1b78fbfe358883470",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":442,
+                  "y":448},
+                "size":{
+                  "width":187,
+                  "height":116}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"c0817d1e9867434c8426bf28eb37b8ff",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":442,
+                      "y":448},
+                    "size":{
+                      "width":187,
+                      "height":116}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/设备巡检录入/u122.png"}}]},
+{
+          "id":"8ad81389eda643a0908dc4996b455499",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":534,
+              "y":115},
+            "size":{
+              "width":166,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"7c966bcb082846c2ae4b27f821621952",
+          "label":"a1",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":620,
+              "y":375},
+            "size":{
+              "width":60,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onKeyUp":{
+              "description":"OnKeyUp",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 q1 = 文字于 a1",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["3c41bc4c063f45bc9c0b317c5045cccb"]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetText",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["7c966bcb082846c2ae4b27f821621952"]}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true},
+{
+          "id":"f01528374f3d4401b9b8d2bb29d6f544",
+          "label":"a2",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":620,
+              "y":420},
+            "size":{
+              "width":60,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onKeyUp":{
+              "description":"OnKeyUp",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 q2 = 文字于 a2",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["59d53260652148e8bcdcbd27616130aa"]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetText",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["f01528374f3d4401b9b8d2bb29d6f544"]}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true},
+{
+          "id":"4e77594ff1984b8b8a824c8fbd5e9f5f",
+          "label":"a3",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":620,
+              "y":460},
+            "size":{
+              "width":60,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onKeyUp":{
+              "description":"OnKeyUp",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 q3 = 文字于 a3",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a89c30a88bc34cd1ac9bf75833b7caca"]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetText",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["4e77594ff1984b8b8a824c8fbd5e9f5f"]}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true},
+{
+          "id":"3cce2399528d44d8bc152ffbcaa2f4d5",
+          "label":"a4",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":620,
+              "y":500},
+            "size":{
+              "width":60,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onKeyUp":{
+              "description":"OnKeyUp",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 q4 = 文字于 a4",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["71912d52e2f04f58b21a4a622c00e1f6"]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetText",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["3cce2399528d44d8bc152ffbcaa2f4d5"]}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true},
+{
+          "id":"036d0a5241534d7f8e7638cc34b36322",
+          "label":"a5",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":620,
+              "y":540},
+            "size":{
+              "width":60,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onKeyUp":{
+              "description":"OnKeyUp",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 q5 = 文字于 a5",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["9f35379e3ad14f22badbe738b708a2c7"]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetText",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["036d0a5241534d7f8e7638cc34b36322"]}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true},
+{
+          "id":"710aec9552974a5da878c8453bc7b804",
+          "label":"a6",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":620,
+              "y":580},
+            "size":{
+              "width":60,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onKeyUp":{
+              "description":"OnKeyUp",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 q6 = 文字于 a6",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["344cd62277244cc9845ac8c5f10302e6"]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetText",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["710aec9552974a5da878c8453bc7b804"]}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true},
+{
+          "id":"b95b01b44e2d40afaf0ca110f2865302",
+          "label":"a7",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":620,
+              "y":620},
+            "size":{
+              "width":60,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onKeyUp":{
+              "description":"OnKeyUp",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 q7 = 文字于 a7",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["4283637668864089808df2168eb4d070"]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetText",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["b95b01b44e2d40afaf0ca110f2865302"]}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true},
+{
+          "id":"e127bf624d604db6bab3da527ae1751d",
+          "label":"a8",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":620,
+              "y":665},
+            "size":{
+              "width":60,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onKeyUp":{
+              "description":"OnKeyUp",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 q8 = 文字于 a8",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["e7eeb582bb6a4ca6b724d7b81863a069"]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetText",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["e127bf624d604db6bab3da527ae1751d"]}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true},
+{
+          "id":"a689af970cd44a8c9dcf765d4beb4b69",
+          "label":"a9",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":620,
+              "y":705},
+            "size":{
+              "width":60,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onKeyUp":{
+              "description":"OnKeyUp",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 q9 = 文字于 a9",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["96ffd57d0527413aaf13bf69368e7139"]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetText",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["a689af970cd44a8c9dcf765d4beb4b69"]}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true},
+{
+          "id":"8aa05250b2ae4f39a8220c473bc4e2c2",
+          "label":"a10",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":620,
+              "y":745},
+            "size":{
+              "width":60,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onKeyUp":{
+              "description":"OnKeyUp",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 q10 = 文字于 a10",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["7785ad4e8c33428aa89307d41070843a"]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetText",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["8aa05250b2ae4f39a8220c473bc4e2c2"]}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true},
+{
+          "id":"e1755798bd9246fcaf117a6688f7a855",
+          "label":"a11",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":290,
+              "y":780},
+            "size":{
+              "width":587,
+              "height":110}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onKeyUp":{
+              "description":"OnKeyUp",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 q11 = 文字于 a11",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["e09a23ac48d34228a18235a8c54c17f6"]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetText",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["e1755798bd9246fcaf117a6688f7a855"]}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true},
+{
+          "id":"c62f20763b404b659ee955cfc8feee75",
+          "label":"b1",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":700,
+              "y":375},
+            "size":{
+              "width":170,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onKeyUp":{
+              "description":"OnKeyUp",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 w1 = 文字于 b1",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["4349a33aba4c45b3a943b7fbb23ac50f"]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetText",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["c62f20763b404b659ee955cfc8feee75"]}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true},
+{
+          "id":"e98e44ef955f43fdb3edfcd5c9490480",
+          "label":"b2",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":700,
+              "y":420},
+            "size":{
+              "width":170,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onKeyUp":{
+              "description":"OnKeyUp",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 w2 = 文字于 b2",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["e7b7842923c8493d872517f05ee759bf"]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetText",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["e98e44ef955f43fdb3edfcd5c9490480"]}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true},
+{
+          "id":"ac4fced78a8244ac8ec802d9f1c481f7",
+          "label":"b3",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":700,
+              "y":460},
+            "size":{
+              "width":170,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onKeyUp":{
+              "description":"OnKeyUp",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 w3 = 文字于 b3",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["010e78c8c4af48c0b28585453e2d5e28"]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetText",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["ac4fced78a8244ac8ec802d9f1c481f7"]}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true},
+{
+          "id":"3bae07ed83874db3bd79b616e31e19d2",
+          "label":"b4",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":700,
+              "y":500},
+            "size":{
+              "width":170,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onKeyUp":{
+              "description":"OnKeyUp",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 w4 = 文字于 b4",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["027642e40b09461f8ffca5544338ee02"]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetText",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["3bae07ed83874db3bd79b616e31e19d2"]}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true},
+{
+          "id":"3197f8f86c4441d49aba58ec260d8266",
+          "label":"b5",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":700,
+              "y":540},
+            "size":{
+              "width":170,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onKeyUp":{
+              "description":"OnKeyUp",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 w5 = 文字于 b5",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["e62dbeb420d3461380af30b399be9d44"]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetText",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["3197f8f86c4441d49aba58ec260d8266"]}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true},
+{
+          "id":"d533ad8d836b4ddcab8cb04559050c63",
+          "label":"b6",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":700,
+              "y":580},
+            "size":{
+              "width":170,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onKeyUp":{
+              "description":"OnKeyUp",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 w6 = 文字于 b6",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["d7df5668158b46c58620b69d17b8d476"]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetText",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["d533ad8d836b4ddcab8cb04559050c63"]}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true},
+{
+          "id":"fb9744c01a9e41c28b126b1a5ed0e533",
+          "label":"b7",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":700,
+              "y":620},
+            "size":{
+              "width":170,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onKeyUp":{
+              "description":"OnKeyUp",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 w7 = 文字于 b7",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1c0ea4243e34f81b9fa6752387a3a6c"]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetText",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["fb9744c01a9e41c28b126b1a5ed0e533"]}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true},
+{
+          "id":"a459c75db8de4bbba2a5321bb1721dd4",
+          "label":"b8",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":700,
+              "y":665},
+            "size":{
+              "width":170,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onKeyUp":{
+              "description":"OnKeyUp",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 w8 = 文字于 b8",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["d5114659dde941c593124a543e87f2da"]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetText",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["a459c75db8de4bbba2a5321bb1721dd4"]}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true},
+{
+          "id":"08ea82b993a140c1a816149e445c1208",
+          "label":"b9",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":700,
+              "y":705},
+            "size":{
+              "width":170,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onKeyUp":{
+              "description":"OnKeyUp",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 w9 = 文字于 b9",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["be1bbd8cc52f4481b44b6360620351fb"]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetText",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["08ea82b993a140c1a816149e445c1208"]}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true},
+{
+          "id":"8c0f18e40a754b62be39454306df3746",
+          "label":"b10",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":700,
+              "y":745},
+            "size":{
+              "width":170,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onKeyUp":{
+              "description":"OnKeyUp",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 w10 = 文字于 b10",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["b475d8f993d74ec3bfbccd7ec259bbd9"]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetText",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["8c0f18e40a754b62be39454306df3746"]}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true},
+{
+          "id":"17d13f79c77e42ada8076cad0fc4deb2",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":380,
+              "y":930},
+            "size":{
+              "width":100,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"隐藏 a1,<br>a2,<br>a3,<br>a4,<br>a5,<br>a6,<br>a7,<br>a8,<br>a9,<br>a10,<br>a11,<br>b1,<br>b2,<br>b3,<br>b4,<br>b5,<br>b6,<br>b7,<br>b8,<br>b9,<br>b10,<br>a,<br>b,<br>c,<br>(HTML Button),<br>(HTML Button)",
+                      "objectsToFades":[{
+                          "objectPath":["7c966bcb082846c2ae4b27f821621952"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["f01528374f3d4401b9b8d2bb29d6f544"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["4e77594ff1984b8b8a824c8fbd5e9f5f"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["3cce2399528d44d8bc152ffbcaa2f4d5"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["036d0a5241534d7f8e7638cc34b36322"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["710aec9552974a5da878c8453bc7b804"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["b95b01b44e2d40afaf0ca110f2865302"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["e127bf624d604db6bab3da527ae1751d"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["a689af970cd44a8c9dcf765d4beb4b69"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["8aa05250b2ae4f39a8220c473bc4e2c2"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["e1755798bd9246fcaf117a6688f7a855"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["c62f20763b404b659ee955cfc8feee75"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["e98e44ef955f43fdb3edfcd5c9490480"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["ac4fced78a8244ac8ec802d9f1c481f7"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["3bae07ed83874db3bd79b616e31e19d2"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["3197f8f86c4441d49aba58ec260d8266"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["d533ad8d836b4ddcab8cb04559050c63"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["fb9744c01a9e41c28b126b1a5ed0e533"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["a459c75db8de4bbba2a5321bb1721dd4"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["08ea82b993a140c1a816149e445c1208"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["8c0f18e40a754b62be39454306df3746"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["76bf0ae2428748c3add4177c495c4ccd"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["5558cfd74d0348ee857e5d9ce6cb0f7c"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["65a5441b67fb4259a5ac8d07aed6221f"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["13b7b78dd93a4fc7b6bd7bca7a2c6513"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}},
+{
+                          "objectPath":["da8de82ab94e4a9091768a52f469d2ba"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"显示 (HTML Button)",
+                      "objectsToFades":[{
+                          "objectPath":["199243d0721b4f8aaa5a7f17cb96e27d"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]},
+{
+                      "action":"enableDisableWidgets",
+                      "description":"启用 (HTML Button)",
+                      "pathToInfo":[{
+                          "objectPath":["199243d0721b4f8aaa5a7f17cb96e27d"],
+                          "enableDisableInfo":{
+                            "enable":true}}]}]}]}},
+          "tabbable":true},
+{
+          "id":"7b6c65f9890d4520a2f0de2c2bacfc25",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":600,
+              "y":930},
+            "size":{
+              "width":100,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 (表格单元) = &quot;设备号：&quot;, 与<br> 文字于 (表格单元) = &quot;&quot;, 与<br> 文字于 (表格单元) = &quot;设备类型：&quot;, 与<br> 文字于 (表格单元) = &quot;&quot;, 与<br> 文字于 (表格单元) = &quot;保养类别：&quot;, 与<br> 文字于 (表格单元) = &quot;&quot;, 与<br> 文字于 (表格单元) = &quot;保养时间：&quot;, 与<br> 文字于 (表格单元) = &quot;&quot;, 与<br> 文字于 (表格单元) = &quot;保养人：&quot;, 与<br> 文字于 (表格单元) = &quot;&quot;, 与<br> 文字于 (表格单元) = &quot;班组：&quot;, 与<br> 文字于 (表格单元) = &quot;&quot;, 与<br> 文字于 (表格单元) = &quot;&quot;, 与<br> 文字于 (表格单元) = &quot;保养内容&quot;, 与<br> 文字于 (表格单元) = &quot;完成情况&quot;, 与<br> 文字于 (表格单元) = &quot;备注&quot;, 与<br> 文字于 (表格单元) = &quot;1&quot;, 与<br> 文字于 (表格单元) = &quot;&quot;, 与<br> 文字于 q1 = &quot;&quot;, 与<br> 文字于 w1 = &quot;&quot;, 与<br> 文字于 (表格单元) = &quot;2&quot;, 与<br> 文字于 (表格单元) = &quot;&quot;, 与<br> 文字于 q2 = &quot;&quot;, 与<br> 文字于 w2 = &quot;&quot;, 与<br> 文字于 (表格单元) = &quot;3&quot;, 与<br> 文字于 (表格单元) = &quot;&quot;, 与<br> 文字于 q3 = &quot;&quot;, 与<br> 文字于 w3 = &quot;&quot;, 与<br> 文字于 (表格单元) = &quot;4&quot;, 与<br> 文字于 (表格单元) = &quot;&quot;, 与<br> 文字于 q4 = &quot;&quot;, 与<br> 文字于 w4 = &quot;&quot;, 与<br> 文字于 (表格单元) = &quot;5&quot;, 与<br> 文字于 (表格单元) = &quot;&quot;, 与<br> 文字于 q5 = &quot;&quot;, 与<br> 文字于 w5 = &quot;&quot;, 与<br> 文字于 (表格单元) = &quot;6&quot;, 与<br> 文字于 (表格单元) = &quot;&quot;, 与<br> 文字于 q6 = &quot;&quot;, 与<br> 文字于 w6 = &quot;&quot;, 与<br> 文字于 (表格单元) = &quot;7&quot;, 与<br> 文字于 (表格单元) = &quot;&quot;, 与<br> 文字于 q7 = &quot;&quot;, 与<br> 文字于 w7 = &quot;&quot;, 与<br> 文字于 (表格单元) = &quot;8&quot;, 与<br> 文字于 (表格单元) = &quot;&quot;, 与<br> 文字于 q8 = &quot;&quot;, 与<br> 文字于 w8 = &quot;&quot;, 与<br> 文字于 (表格单元) = &quot;9&quot;, 与<br> 文字于 (表格单元) = &quot;&quot;, 与<br> 文字于 q9 = &quot;&quot;, 与<br> 文字于 w9 = &quot;&quot;, 与<br> 文字于 (表格单元) = &quot;10&quot;, 与<br> 文字于 (表格单元) = &quot;&quot;, 与<br> 文字于 q10 = &quot;&quot;, 与<br> 文字于 w10 = &quot;&quot;, 与<br> 文字于 (表格单元) = &quot;说明&quot;, 与<br> 文字于 q11 = &quot;&quot;, 与<br> 文字于 (表格单元) = &quot;&quot;, 与<br> 文字于 (表格单元) = &quot;&quot;, 与<br> 文字于 (文本框(单行)) = &quot;&quot;, 与<br> 文字于 a1 = &quot;&quot;, 与<br> 文字于 a2 = &quot;&quot;, 与<br> 文字于 a3 = &quot;&quot;, 与<br> 文字于 a4 = &quot;&quot;, 与<br> 文字于 a5 = &quot;&quot;, 与<br> 文字于 a6 = &quot;&quot;, 与<br> 文字于 a7 = &quot;&quot;, 与<br> 文字于 a8 = &quot;&quot;, 与<br> 文字于 a9 = &quot;&quot;, 与<br> 文字于 a10 = &quot;&quot;, 与<br> 文字于 a11 = &quot;&quot;, 与<br> 文字于 b1 = &quot;&quot;, 与<br> 文字于 b2 = &quot;&quot;, 与<br> 文字于 b3 = &quot;&quot;, 与<br> 文字于 b4 = &quot;&quot;, 与<br> 文字于 b5 = &quot;&quot;, 与<br> 文字于 b6 = &quot;&quot;, 与<br> 文字于 b7 = &quot;&quot;, 与<br> 文字于 b8 = &quot;&quot;, 与<br> 文字于 b9 = &quot;&quot;, 与<br> 文字于 b10 = &quot;&quot;, 与<br> 文字于 a = &quot;&quot;, 与<br> 文字于 b = &quot;&quot;, 与<br> 文字于 c = &quot;&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["2f4d8c02e752435280feae7e8850878e"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"设备号：",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["41e321ec01b4428fb97942f8e9519db2"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["01d4402c675f46fb9311b4d091f117bf"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"设备类型：",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["eb5d5c1a9bd645588b9c9d93f23eecbb"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["04356bb3ebd5430696206de6ddf9a631"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"保养类别：",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["2b42e195e8784e3cad3730f226a22f81"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["61996660145b4238be93e9a9264d31c1"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"保养时间：",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["8252a3501a484bd8992f8fdfa392c1a1"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["4ddc42f6de8648a1801fd440f1eb719a"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"保养人：",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["5154c9a2b8fd49afa8b59879d8e7dec3"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["df0d97c5e7ae4bcb92c6af75c6b5ef20"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"班组：",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["cac758fc195b490d8c3d0032bd06278d"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["d5203d9ffbea4aa5a62003377bed9c1e"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["2b221aa61a014322bb3c31581fbc3896"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"保养内容",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["d3253a2954524676ab76e362cbbca7a0"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"完成情况",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["e38009c82d87498fb7085d994b86c744"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"备注",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["b7ee2552d1eb4d839b733523d1d48749"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"1",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["7ea4b3b6ac2e40709e867463cc7af88b"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["3c41bc4c063f45bc9c0b317c5045cccb"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["4349a33aba4c45b3a943b7fbb23ac50f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["c03102a29a884f789899d4c8aa1e7e96"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"2",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["c7765bea316049f5a2a4c8da8153bc11"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["59d53260652148e8bcdcbd27616130aa"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["e7b7842923c8493d872517f05ee759bf"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["c57de95c35834d0bb4cea9856bae518d"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"3",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["c596bed617bc437ea5d83126dafbbd8c"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a89c30a88bc34cd1ac9bf75833b7caca"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["010e78c8c4af48c0b28585453e2d5e28"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["4ed87e714b1f45a7a55566393bbe0bba"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"4",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["325de332233f4093a150ade30f80c1be"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["71912d52e2f04f58b21a4a622c00e1f6"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["027642e40b09461f8ffca5544338ee02"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["33eef1c233724bf8a96dba4da36df2a0"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"5",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["934030b7d832482ab64853a6f4d4e7fd"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["9f35379e3ad14f22badbe738b708a2c7"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["e62dbeb420d3461380af30b399be9d44"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["7f992aae4c6d4d1a8ebd6a21527eb76e"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"6",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["79d5cb96515f4fdcb6a4ffc70f19df2d"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["344cd62277244cc9845ac8c5f10302e6"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["d7df5668158b46c58620b69d17b8d476"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["07a44f75a0a34b18a0ae0c9db63bebc0"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"7",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["0350a5f999cd46919cb67afa85829ba0"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["4283637668864089808df2168eb4d070"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a1c0ea4243e34f81b9fa6752387a3a6c"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["0e850dd6ee324a7bb26a58d2a38db7c0"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"8",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["39c0993a71734ead88c516860bd3f900"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["e7eeb582bb6a4ca6b724d7b81863a069"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["d5114659dde941c593124a543e87f2da"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["da9d5531dd924311a568b41448b819ae"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"9",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["ae8cd85e8f484c079b081c1dd1234f10"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["96ffd57d0527413aaf13bf69368e7139"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["be1bbd8cc52f4481b44b6360620351fb"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["42caa69bfdc744fdb2d3b116579ae90d"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"10",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["afcc770bdf07408885451b09b092119b"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["7785ad4e8c33428aa89307d41070843a"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["b475d8f993d74ec3bfbccd7ec259bbd9"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["b887c38a2e33490f8a8624f5baa0c08e"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"说明",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["e09a23ac48d34228a18235a8c54c17f6"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["85c106aff16d4b94825e4cd5c4fe00d0"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["c0817d1e9867434c8426bf28eb37b8ff"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["8ad81389eda643a0908dc4996b455499"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["7c966bcb082846c2ae4b27f821621952"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["f01528374f3d4401b9b8d2bb29d6f544"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["4e77594ff1984b8b8a824c8fbd5e9f5f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["3cce2399528d44d8bc152ffbcaa2f4d5"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["036d0a5241534d7f8e7638cc34b36322"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["710aec9552974a5da878c8453bc7b804"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["b95b01b44e2d40afaf0ca110f2865302"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["e127bf624d604db6bab3da527ae1751d"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a689af970cd44a8c9dcf765d4beb4b69"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["8aa05250b2ae4f39a8220c473bc4e2c2"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["e1755798bd9246fcaf117a6688f7a855"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["c62f20763b404b659ee955cfc8feee75"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["e98e44ef955f43fdb3edfcd5c9490480"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["ac4fced78a8244ac8ec802d9f1c481f7"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["3bae07ed83874db3bd79b616e31e19d2"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["3197f8f86c4441d49aba58ec260d8266"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["d533ad8d836b4ddcab8cb04559050c63"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["fb9744c01a9e41c28b126b1a5ed0e533"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["a459c75db8de4bbba2a5321bb1721dd4"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["08ea82b993a140c1a816149e445c1208"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["8c0f18e40a754b62be39454306df3746"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["76bf0ae2428748c3add4177c495c4ccd"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["5558cfd74d0348ee857e5d9ce6cb0f7c"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetFormText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["65a5441b67fb4259a5ac8d07aed6221f"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"",
+                                "stos":[]}]}]}},
+{
+                      "action":"fadeWidget",
+                      "description":"显示 (文本框(单行))",
+                      "objectsToFades":[{
+                          "objectPath":["8ad81389eda643a0908dc4996b455499"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true},
+{
+          "id":"8db9126f64b44af195443886b8d3f405",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":820,
+              "y":115},
+            "size":{
+              "width":300,
+              "height":48}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a0d9dae4cd3b49c09de224dfd86dfab8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":820,
+                  "y":115},
+                "size":{
+                  "width":300,
+                  "height":48}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"76bf0ae2428748c3add4177c495c4ccd",
+          "label":"a",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":534,
+              "y":205},
+            "size":{
+              "width":246,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onKeyUp":{
+              "description":"OnKeyUp",
+              "cases":[{
+                  "description":"用例 1<br> (If 文字于 This ≠ &quot;&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"!=",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":true,
+                          "isFocused":false,
+                          "isTarget":false}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 (表格单元) = 文字于 a",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["8252a3501a484bd8992f8fdfa392c1a1"]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetText",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["76bf0ae2428748c3add4177c495c4ccd"]}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true},
+{
+          "id":"5558cfd74d0348ee857e5d9ce6cb0f7c",
+          "label":"b",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":534,
+              "y":230},
+            "size":{
+              "width":246,
+              "height":30}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onKeyUp":{
+              "description":"OnKeyUp",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 (表格单元) = 文字于 b",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["5154c9a2b8fd49afa8b59879d8e7dec3"]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetText",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["5558cfd74d0348ee857e5d9ce6cb0f7c"]}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true},
+{
+          "id":"65a5441b67fb4259a5ac8d07aed6221f",
+          "label":"c",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":534,
+              "y":265},
+            "size":{
+              "width":246,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onKeyUp":{
+              "description":"OnKeyUp",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 (表格单元) = 文字于 c",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["cac758fc195b490d8c3d0032bd06278d"]},
+{
+                                "exprType":"fcall",
+                                "functionName":"GetWidgetText",
+                                "arguments":[{
+                                    "exprType":"pathLiteral",
+                                    "isThis":false,
+                                    "isFocused":false,
+                                    "isTarget":false,
+                                    "value":["65a5441b67fb4259a5ac8d07aed6221f"]}]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}}]}]}},
+          "tabbable":true},
+{
+          "id":"13b7b78dd93a4fc7b6bd7bca7a2c6513",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":710,
+              "y":115},
+            "size":{
+              "width":70,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1<br> (If 文字于 (文本框(单行)) 等于 &quot;001&quot;)",
+                  "isNewIfGroup":false,
+                  "condition":{
+                    "exprType":"binaryOp",
+                    "op":"==",
+                    "leftExpr":{
+                      "exprType":"fcall",
+                      "functionName":"GetWidgetText",
+                      "arguments":[{
+                          "exprType":"pathLiteral",
+                          "isThis":false,
+                          "isFocused":false,
+                          "isTarget":false,
+                          "value":["8ad81389eda643a0908dc4996b455499"]}]},
+                    "rightExpr":{
+                      "exprType":"stringLiteral",
+                      "value":"001",
+                      "stos":[]}},
+                  "actions":[{
+                      "action":"setFunction",
+                      "description":"设置 文字于 (表格单元) = &quot;001&quot;, 与<br> 文字于 (表格单元) = &quot;6000V及以上电机&quot;, 与<br> 文字于 (表格单元) = &quot;年检&quot;, 与<br> 文字于 (表格单元) = &quot;检查6000V接线盒内瓷瓶、端子&quot;, 与<br> 文字于 (表格单元) = &quot;接线盒内卫生清洁&quot;, 与<br> 文字于 (表格单元) = &quot;检查电缆引线、穿线管、接地线&quot;, 与<br> 文字于 (表格单元) = &quot;检查进线口密封情况&quot;, 与<br> 文字于 (表格单元) = &quot;检查前后轴承温度传感器的接线盒&quot;, 与<br> 文字于 (表格单元) = &quot;检查定子绕组温度传感器的接线盒&quot;, 与<br> 文字于 (表格单元) = &quot;检查防潮加热器的接线盒&quot;",
+                      "expr":{
+                        "exprType":"block",
+                        "subExprs":[{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["41e321ec01b4428fb97942f8e9519db2"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"001",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["eb5d5c1a9bd645588b9c9d93f23eecbb"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"6000V及以上电机",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["2b42e195e8784e3cad3730f226a22f81"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"年检",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["7ea4b3b6ac2e40709e867463cc7af88b"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"检查6000V接线盒内瓷瓶、端子",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["c7765bea316049f5a2a4c8da8153bc11"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"接线盒内卫生清洁",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["c596bed617bc437ea5d83126dafbbd8c"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"检查电缆引线、穿线管、接地线",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["325de332233f4093a150ade30f80c1be"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"检查进线口密封情况",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["934030b7d832482ab64853a6f4d4e7fd"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"检查前后轴承温度传感器的接线盒",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["79d5cb96515f4fdcb6a4ffc70f19df2d"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"检查定子绕组温度传感器的接线盒",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]},
+{
+                            "exprType":"fcall",
+                            "functionName":"SetWidgetRichText",
+                            "arguments":[{
+                                "exprType":"pathLiteral",
+                                "isThis":false,
+                                "isFocused":false,
+                                "isTarget":false,
+                                "value":["0350a5f999cd46919cb67afa85829ba0"]},
+{
+                                "exprType":"stringLiteral",
+                                "value":"检查防潮加热器的接线盒",
+                                "stos":[]},
+{
+                                "exprType":"booleanLiteral",
+                                "value":true}]}]}},
+{
+                      "action":"fadeWidget",
+                      "description":"隐藏 (文本框(单行))",
+                      "objectsToFades":[{
+                          "objectPath":["8ad81389eda643a0908dc4996b455499"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true},
+{
+          "id":"da8de82ab94e4a9091768a52f469d2ba",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":30,
+              "y":15},
+            "size":{
+              "width":100,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 煤炭洗选中心电气维修部",
+                      "target":{
+                        "targetType":"page",
+                        "url":"煤炭洗选中心电气维修部.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"199243d0721b4f8aaa5a7f17cb96e27d",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":490,
+              "y":930},
+            "size":{
+              "width":100,
+              "height":25},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 煤炭洗选中心电气维修部",
+                      "target":{
+                        "targetType":"page",
+                        "url":"煤炭洗选中心电气维修部.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]},
+            "onHide":{
+              "description":"OnHide",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"enableDisableWidgets",
+                      "description":"禁用 (HTML Button)",
+                      "pathToInfo":[{
+                          "objectPath":["199243d0721b4f8aaa5a7f17cb96e27d"],
+                          "enableDisableInfo":{
+                            "enable":false}}]}]}]}},
+          "tabbable":true}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "9e0819a1d97e41e299dc84106c463d70":{
+      "scriptId":"u0"},
+    "50069342c2d7419c8746b38ccf7599b0":{
+      "scriptId":"u1"},
+    "0c513ab25fdd4b998fe2dd34e4244488":{
+      "scriptId":"u2"},
+    "5456d78623aa45e0a4465def41376da0":{
+      "scriptId":"u3"},
+    "2f4d8c02e752435280feae7e8850878e":{
+      "scriptId":"u4"},
+    "6a94a6b31f9f46dba4f39017af5e0d84":{
+      "scriptId":"u5"},
+    "41e321ec01b4428fb97942f8e9519db2":{
+      "scriptId":"u6"},
+    "cbd76fe71886483e88619d827f06c57c":{
+      "scriptId":"u7"},
+    "01d4402c675f46fb9311b4d091f117bf":{
+      "scriptId":"u8"},
+    "bf34f1c1788b4d5e9b4f564f1a42ff0b":{
+      "scriptId":"u9"},
+    "eb5d5c1a9bd645588b9c9d93f23eecbb":{
+      "scriptId":"u10"},
+    "766e6b1b12c94fbba9ef694de3d5d3ac":{
+      "scriptId":"u11"},
+    "04356bb3ebd5430696206de6ddf9a631":{
+      "scriptId":"u12"},
+    "709603cccc1d4327968e173f57ca36c4":{
+      "scriptId":"u13"},
+    "2b42e195e8784e3cad3730f226a22f81":{
+      "scriptId":"u14"},
+    "30ee438f26954eca9069c62946c87c72":{
+      "scriptId":"u15"},
+    "61996660145b4238be93e9a9264d31c1":{
+      "scriptId":"u16"},
+    "850ede0e17c645a2a141d21bcb14dfde":{
+      "scriptId":"u17"},
+    "8252a3501a484bd8992f8fdfa392c1a1":{
+      "scriptId":"u18"},
+    "3880954e78da4ff5b2fddd6ad2efbd2c":{
+      "scriptId":"u19"},
+    "4ddc42f6de8648a1801fd440f1eb719a":{
+      "scriptId":"u20"},
+    "ef06a8ac91e844ad8a264c6ef66248a1":{
+      "scriptId":"u21"},
+    "5154c9a2b8fd49afa8b59879d8e7dec3":{
+      "scriptId":"u22"},
+    "14a8b254705d4d4fb560678c7712dde2":{
+      "scriptId":"u23"},
+    "df0d97c5e7ae4bcb92c6af75c6b5ef20":{
+      "scriptId":"u24"},
+    "b6cfcada0fb248f9954687ef0c3960dc":{
+      "scriptId":"u25"},
+    "cac758fc195b490d8c3d0032bd06278d":{
+      "scriptId":"u26"},
+    "4179d7bdcd2740eb99b1a7030662fe9b":{
+      "scriptId":"u27"},
+    "6420af82510e4642bde900a01dfe08e4":{
+      "scriptId":"u28"},
+    "d5203d9ffbea4aa5a62003377bed9c1e":{
+      "scriptId":"u29"},
+    "5815e7a2e8b0443ebdf4e3905b56f265":{
+      "scriptId":"u30"},
+    "2b221aa61a014322bb3c31581fbc3896":{
+      "scriptId":"u31"},
+    "e5aab76b739e49da8dfbfed10f25ad1c":{
+      "scriptId":"u32"},
+    "d3253a2954524676ab76e362cbbca7a0":{
+      "scriptId":"u33"},
+    "d72dd5b34ec941bc83f5df09a7a24824":{
+      "scriptId":"u34"},
+    "e38009c82d87498fb7085d994b86c744":{
+      "scriptId":"u35"},
+    "f3fcb58b58314aa7bcc2ec84f40bc2da":{
+      "scriptId":"u36"},
+    "b7ee2552d1eb4d839b733523d1d48749":{
+      "scriptId":"u37"},
+    "79489c91e2da4c35aebac19f015e8a12":{
+      "scriptId":"u38"},
+    "7ea4b3b6ac2e40709e867463cc7af88b":{
+      "scriptId":"u39"},
+    "1c67f6386cec4becbdf2d4cf781bde3d":{
+      "scriptId":"u40"},
+    "3c41bc4c063f45bc9c0b317c5045cccb":{
+      "scriptId":"u41"},
+    "277dc851185843b6aa9f2e12d4640f9e":{
+      "scriptId":"u42"},
+    "4349a33aba4c45b3a943b7fbb23ac50f":{
+      "scriptId":"u43"},
+    "50d86930db434fc6af53ed5d3cfcb4f2":{
+      "scriptId":"u44"},
+    "c03102a29a884f789899d4c8aa1e7e96":{
+      "scriptId":"u45"},
+    "0f796d563fab4248bdf32b5e9d14a5ba":{
+      "scriptId":"u46"},
+    "c7765bea316049f5a2a4c8da8153bc11":{
+      "scriptId":"u47"},
+    "88992209c1e74329bae4202ebecf4ea6":{
+      "scriptId":"u48"},
+    "59d53260652148e8bcdcbd27616130aa":{
+      "scriptId":"u49"},
+    "cb559edf5aff47cfb34ff990c7a2230d":{
+      "scriptId":"u50"},
+    "e7b7842923c8493d872517f05ee759bf":{
+      "scriptId":"u51"},
+    "9626d21112eb42d692f9ee1e014d59c4":{
+      "scriptId":"u52"},
+    "c57de95c35834d0bb4cea9856bae518d":{
+      "scriptId":"u53"},
+    "69b1d8069ad343d8b2adf7226daf418f":{
+      "scriptId":"u54"},
+    "c596bed617bc437ea5d83126dafbbd8c":{
+      "scriptId":"u55"},
+    "426182a5750241d1b6f532d497a9ead0":{
+      "scriptId":"u56"},
+    "a89c30a88bc34cd1ac9bf75833b7caca":{
+      "scriptId":"u57"},
+    "22da3a68940446dfb71184dd9f0980b8":{
+      "scriptId":"u58"},
+    "010e78c8c4af48c0b28585453e2d5e28":{
+      "scriptId":"u59"},
+    "9df1d20448da4740ac9dd9783f4332a2":{
+      "scriptId":"u60"},
+    "4ed87e714b1f45a7a55566393bbe0bba":{
+      "scriptId":"u61"},
+    "88a2068450c145f9965d966e7725f639":{
+      "scriptId":"u62"},
+    "325de332233f4093a150ade30f80c1be":{
+      "scriptId":"u63"},
+    "19794219620448c5945d97d0bfd052dd":{
+      "scriptId":"u64"},
+    "71912d52e2f04f58b21a4a622c00e1f6":{
+      "scriptId":"u65"},
+    "9a893ffa512b4fb3a110d22fbd57154f":{
+      "scriptId":"u66"},
+    "027642e40b09461f8ffca5544338ee02":{
+      "scriptId":"u67"},
+    "7685a3546e2f49c8b55198d484795c40":{
+      "scriptId":"u68"},
+    "33eef1c233724bf8a96dba4da36df2a0":{
+      "scriptId":"u69"},
+    "69c07fc85f754e9293b86e9c5b43d84a":{
+      "scriptId":"u70"},
+    "934030b7d832482ab64853a6f4d4e7fd":{
+      "scriptId":"u71"},
+    "b3403cfc1f964a73ad342b551a5c05b6":{
+      "scriptId":"u72"},
+    "9f35379e3ad14f22badbe738b708a2c7":{
+      "scriptId":"u73"},
+    "f888f373d8b14941a8a7815167991741":{
+      "scriptId":"u74"},
+    "e62dbeb420d3461380af30b399be9d44":{
+      "scriptId":"u75"},
+    "436d42349d7747e3b0a3835a15924cd6":{
+      "scriptId":"u76"},
+    "7f992aae4c6d4d1a8ebd6a21527eb76e":{
+      "scriptId":"u77"},
+    "16baf0a31140448ea0cdfe27a3fcb8a6":{
+      "scriptId":"u78"},
+    "79d5cb96515f4fdcb6a4ffc70f19df2d":{
+      "scriptId":"u79"},
+    "64a16663fdd245128bb37e29ca889754":{
+      "scriptId":"u80"},
+    "344cd62277244cc9845ac8c5f10302e6":{
+      "scriptId":"u81"},
+    "0927866b74a145029ff4f95f140d7218":{
+      "scriptId":"u82"},
+    "d7df5668158b46c58620b69d17b8d476":{
+      "scriptId":"u83"},
+    "671a1158343c44329f6d8d2edaaa0341":{
+      "scriptId":"u84"},
+    "07a44f75a0a34b18a0ae0c9db63bebc0":{
+      "scriptId":"u85"},
+    "d2b59981cbd944a9a2ced763e1815bf5":{
+      "scriptId":"u86"},
+    "0350a5f999cd46919cb67afa85829ba0":{
+      "scriptId":"u87"},
+    "2258d6bf59c7429684a75242e34211ff":{
+      "scriptId":"u88"},
+    "4283637668864089808df2168eb4d070":{
+      "scriptId":"u89"},
+    "2dce1c36cf034d44a532a80c0913746f":{
+      "scriptId":"u90"},
+    "a1c0ea4243e34f81b9fa6752387a3a6c":{
+      "scriptId":"u91"},
+    "2356c0e42cf6466aab08d2c488e9edd9":{
+      "scriptId":"u92"},
+    "0e850dd6ee324a7bb26a58d2a38db7c0":{
+      "scriptId":"u93"},
+    "b5fdfc58727d45d4b91cdddcab4c17dc":{
+      "scriptId":"u94"},
+    "39c0993a71734ead88c516860bd3f900":{
+      "scriptId":"u95"},
+    "6f7648e054c045a0be6d8f48ee809516":{
+      "scriptId":"u96"},
+    "e7eeb582bb6a4ca6b724d7b81863a069":{
+      "scriptId":"u97"},
+    "b472c071935f421b90a141cb7bd93b83":{
+      "scriptId":"u98"},
+    "d5114659dde941c593124a543e87f2da":{
+      "scriptId":"u99"},
+    "06b67710ce5540868d18a5d926aa30f0":{
+      "scriptId":"u100"},
+    "da9d5531dd924311a568b41448b819ae":{
+      "scriptId":"u101"},
+    "94324aaf46474d7eb9ccf64e3f2b70a7":{
+      "scriptId":"u102"},
+    "ae8cd85e8f484c079b081c1dd1234f10":{
+      "scriptId":"u103"},
+    "bab6ac9d784444998b25c81d79672c6c":{
+      "scriptId":"u104"},
+    "96ffd57d0527413aaf13bf69368e7139":{
+      "scriptId":"u105"},
+    "ff2ca7e3cfee4bb6a1b029609de43287":{
+      "scriptId":"u106"},
+    "be1bbd8cc52f4481b44b6360620351fb":{
+      "scriptId":"u107"},
+    "53e192b3bde54e7ab250d8b0193df8f5":{
+      "scriptId":"u108"},
+    "42caa69bfdc744fdb2d3b116579ae90d":{
+      "scriptId":"u109"},
+    "64722174f662400b9dd12c34c5f4d0f8":{
+      "scriptId":"u110"},
+    "afcc770bdf07408885451b09b092119b":{
+      "scriptId":"u111"},
+    "2979518600c2482cbe319a84bfa3f06b":{
+      "scriptId":"u112"},
+    "7785ad4e8c33428aa89307d41070843a":{
+      "scriptId":"u113"},
+    "ac1ce7126c5c49e08763e62b54ca93cc":{
+      "scriptId":"u114"},
+    "b475d8f993d74ec3bfbccd7ec259bbd9":{
+      "scriptId":"u115"},
+    "a3269b2cbf9e4ae2987f11f79aa86ed6":{
+      "scriptId":"u116"},
+    "b887c38a2e33490f8a8624f5baa0c08e":{
+      "scriptId":"u117"},
+    "a1295c00bf004b6d9bfb12531f19ce60":{
+      "scriptId":"u118"},
+    "e09a23ac48d34228a18235a8c54c17f6":{
+      "scriptId":"u119"},
+    "431a0fd7c40e4c9b8311b9f62f61d5bc":{
+      "scriptId":"u120"},
+    "85c106aff16d4b94825e4cd5c4fe00d0":{
+      "scriptId":"u121"},
+    "7105b0f230a345c1b78fbfe358883470":{
+      "scriptId":"u122"},
+    "c0817d1e9867434c8426bf28eb37b8ff":{
+      "scriptId":"u123"},
+    "8ad81389eda643a0908dc4996b455499":{
+      "scriptId":"u124"},
+    "7c966bcb082846c2ae4b27f821621952":{
+      "scriptId":"u125"},
+    "f01528374f3d4401b9b8d2bb29d6f544":{
+      "scriptId":"u126"},
+    "4e77594ff1984b8b8a824c8fbd5e9f5f":{
+      "scriptId":"u127"},
+    "3cce2399528d44d8bc152ffbcaa2f4d5":{
+      "scriptId":"u128"},
+    "036d0a5241534d7f8e7638cc34b36322":{
+      "scriptId":"u129"},
+    "710aec9552974a5da878c8453bc7b804":{
+      "scriptId":"u130"},
+    "b95b01b44e2d40afaf0ca110f2865302":{
+      "scriptId":"u131"},
+    "e127bf624d604db6bab3da527ae1751d":{
+      "scriptId":"u132"},
+    "a689af970cd44a8c9dcf765d4beb4b69":{
+      "scriptId":"u133"},
+    "8aa05250b2ae4f39a8220c473bc4e2c2":{
+      "scriptId":"u134"},
+    "e1755798bd9246fcaf117a6688f7a855":{
+      "scriptId":"u135"},
+    "c62f20763b404b659ee955cfc8feee75":{
+      "scriptId":"u136"},
+    "e98e44ef955f43fdb3edfcd5c9490480":{
+      "scriptId":"u137"},
+    "ac4fced78a8244ac8ec802d9f1c481f7":{
+      "scriptId":"u138"},
+    "3bae07ed83874db3bd79b616e31e19d2":{
+      "scriptId":"u139"},
+    "3197f8f86c4441d49aba58ec260d8266":{
+      "scriptId":"u140"},
+    "d533ad8d836b4ddcab8cb04559050c63":{
+      "scriptId":"u141"},
+    "fb9744c01a9e41c28b126b1a5ed0e533":{
+      "scriptId":"u142"},
+    "a459c75db8de4bbba2a5321bb1721dd4":{
+      "scriptId":"u143"},
+    "08ea82b993a140c1a816149e445c1208":{
+      "scriptId":"u144"},
+    "8c0f18e40a754b62be39454306df3746":{
+      "scriptId":"u145"},
+    "17d13f79c77e42ada8076cad0fc4deb2":{
+      "scriptId":"u146"},
+    "7b6c65f9890d4520a2f0de2c2bacfc25":{
+      "scriptId":"u147"},
+    "8db9126f64b44af195443886b8d3f405":{
+      "scriptId":"u148"},
+    "a0d9dae4cd3b49c09de224dfd86dfab8":{
+      "scriptId":"u149"},
+    "76bf0ae2428748c3add4177c495c4ccd":{
+      "scriptId":"u150"},
+    "5558cfd74d0348ee857e5d9ce6cb0f7c":{
+      "scriptId":"u151"},
+    "65a5441b67fb4259a5ac8d07aed6221f":{
+      "scriptId":"u152"},
+    "13b7b78dd93a4fc7b6bd7bca7a2c6513":{
+      "scriptId":"u153"},
+    "da8de82ab94e4a9091768a52f469d2ba":{
+      "scriptId":"u154"},
+    "199243d0721b4f8aaa5a7f17cb96e27d":{
+      "scriptId":"u155"}}});
